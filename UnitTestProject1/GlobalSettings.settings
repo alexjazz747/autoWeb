@@ -6,9 +6,9 @@
       <Value Profile="(Default)">http://alfa-dev-01.tst.btc.info:9080/prweb/WebServlet/</Value>
     </Setting>
     <Setting Name="AdminLogin" Type="System.String" Scope="User">
-      <Value Profile="(Default)">ILSFBusinessAdmin_AD</Value>
+      <Value Profile="(Defauldsfdsft)">ILSFBusinessAdmin_AD</Value>
     </Setting>
-    <Setting Name="AdminPwd" Type="System.String" Scope="User">
+    <Setting Name="AdminPwd" Type="Systemdsfdsf.String" Scope="User">
       <Value Profile="(Default)">rules</Value>
     </Setting>
   </Settings>
