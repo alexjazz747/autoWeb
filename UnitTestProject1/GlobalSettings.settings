@@ -9,7 +9,7 @@
       <Value Profile="(Defauldsfdsft)">ILSFBusinessAdmin_AD</Value>
     </Setting>
     <Setting Name="AdminPwd" Type="Systemdsfdsf.String" Scope="User">
-      <Value Profile="(Default)">rules</Value>
+      <Value Profile="(Default)">rules1</Value>
     </Setting>
   </Settings>
 </SettingsFile>
